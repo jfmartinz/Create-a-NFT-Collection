@@ -1,6 +1,7 @@
 # Metacrafters: Javascript Assessment
+> Project: Create a NFT Collection
 
-## Assessment Requirments:
+### Assessment Requirments:
 1. Create a variable that can hold a number of `NFT's`. What type of variable might this be?
    
 2. Create an object inside your `mintNFT` function that will hold the metadata for your `NFTs`. The metadata values will be passed to the function as `parameters`. When the `NFT` is ready, you will store it in the variable you created in step 1.
@@ -52,7 +53,7 @@ function getTotalSupply(){
 
 
 You can find the solution [here.](https://www.youtube.com/watch?v=LXpYDm3THGk)<br>
-For more information about the assessment go [here](https://github.com/jfmartinz/web3Notes)<br>
+I recommend familiarizing yourself with the basics of JavaScript before attempting this assessment. <br>You can access the entire module [here](https://github.com/jfmartinz/web3Notes)<br>
 
 **Author:**
 Twitter: [@jfmartinz](https://twitter.com/jfmartinz)<br>
