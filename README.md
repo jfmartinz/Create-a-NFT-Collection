@@ -7,7 +7,16 @@
 
 3. Your `listNFTs()` function will print all your `NFTs` metadata to the console (i.e `console.log("Name: " + someNFT.name)`)
 
-4. For good measure, `getTotalSupply()` should return the number of `NFT's` you have created.   
+4. For good measure, `getTotalSupply()` should return the number of `NFT's` you have created.
+
+
+
+## Excuting the program
+To run this program, you can use Remix, an online Solidity IDE. To get started, go to the [Remix](https://remix.ethereum.org/) website.
+
+---
+
+*Here is a basic JS file to get you started:*
 
 Create a variable to hold your `NFT's`<br>
 
@@ -39,9 +48,15 @@ function getTotalSupply(){
 }
 ```
 
-> Call your functions beloww
+> Call your functions below
 
 
-You can find the solution [here.](https://www.youtube.com/watch?v=LXpYDm3THGk)
+You can find the solution [here.](https://www.youtube.com/watch?v=LXpYDm3THGk)<br>
+For more information about the assessment go [here](https://github.com/jfmartinz/web3Notes)<br>
+
+**Author:**
+Twitter: [@jfmartinz](https://twitter.com/jfmartinz)<br>
+Github: [@jfmartinz](https://github.com/jfmartinz)<br>
+Linkedin: [@jfmartinz](https://www.linkedin.com/in/jfmartinz/)
 
 
