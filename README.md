@@ -53,7 +53,7 @@ function getTotalSupply(){
 
 
 You can find the solution [here.](https://www.youtube.com/watch?v=LXpYDm3THGk)<br>
-I recommend familiarizing yourself with the basics of JavaScript before attempting this assessment. <br>You can access the entire module [here](https://github.com/jfmartinz/web3Notes)<br>
+I recommend you to check this [repo](https://github.com/jfmartinz/web3Notes) before attempting this assessment.
 
 **Author:**
 Twitter: [@jfmartinz](https://twitter.com/jfmartinz)<br>
