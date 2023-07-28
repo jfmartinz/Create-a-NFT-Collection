@@ -53,7 +53,10 @@ function getTotalSupply(){
 
 
 You can find the solution [here.](https://www.youtube.com/watch?v=LXpYDm3THGk)<br>
-I recommend you to check this [repo](https://github.com/jfmartinz/web3Notes) before attempting this assessment.
+I recommend you to learn the basics of Solidity in this [repo](https://github.com/jfmartinz/web3Notes), before attempting this assessment.
+Or take a course on [MetaCrafters](https://www.metacrafters.io/)
+
+---
 
 **Author:**
 Twitter: [@jfmartinz](https://twitter.com/jfmartinz)<br>
