@@ -11,10 +11,6 @@
 4. For good measure, `getTotalSupply()` should return the number of `NFT's` you have created.
 
 
-
-## Excuting the program
-To run this program, you can use Remix, an online Solidity IDE. To get started, go to the [Remix](https://remix.ethereum.org/) website.
-
 ---
 
 *Here is a basic JS file to get you started:*
